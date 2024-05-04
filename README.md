@@ -17,7 +17,8 @@ To run the code for this project, you need the following Python libraries:
 3. **Model Training**: Choose a classification algorithm (e.g., logistic regression, random forests) and train the model on the preprocessed data.
 4. **Model Evaluation**: Evaluate the model's performance using metrics such as precision, recall, and F1-score on the testing set.
 5. **Performance Improvement**: Consider additional techniques like hyperparameter tuning or feature selection to improve model performance further.
-6. **🚀 Clone the repository :
+6. **🚀 Clone the Repository:
+ 
    
 
 ## 📁 Files
